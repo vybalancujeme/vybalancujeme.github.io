@@ -1,0 +1,17 @@
+<svg version="1.1" id="Vrstva_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-1.000 -1.000 32.000 32.200" enable-background="new 0 0 30 30.2" xml:space="preserve">
+<g>
+	<path fill="#231F20" d="M12.1,25.4c-4.2,0-7.3-1.9-8.6-5c-1.6,5.4,1.3,9.8,6.9,9.8s11.6-4.3,14-9.8C20.8,23.5,16.3,25.4,12.1,25.4z
+		"/>
+	<path fill="#231F20" d="M18,4.8c4.2,0,7.3,1.9,8.6,5C28.2,4.3,25.3,0,19.7,0c-5.5,0-11.6,4.3-14,9.8C9.3,6.7,13.8,4.8,18,4.8z"/>
+	<path fill="#231F20" d="M4.8,12c0-4.2,1.9-7.3,5-8.6C4.3,1.8,0,4.7,0,10.3c0,5.5,4.3,11.6,9.8,14C6.7,20.7,4.8,16.2,4.8,12z"/>
+	<path fill="#231F20" d="M25.2,18.3c0,4.2-1.9,7.3-5,8.6c5.4,1.6,9.8-1.3,9.8-6.9c0-5.5-4.3-11.6-9.8-14
+		C23.3,9.6,25.2,14.1,25.2,18.3z"/>
+	<circle fill="#231F20" cx="15" cy="15.2" r="6.5"/>
+</g>
+<script  type="text/javascript">
+    <![CDATA[
+         var c=window.location.search.split('color=')[1]; c=parseInt(c,16); if(!isNaN(c)){c=c.toString(16);var p=document.getElementsByTagName('path');for(var i=0,l=p.length;i<l;i++){var s=p[i].style;s.fill='#'+c;} var p2=document.getElementsByTagName('polygon');for(var i=0,l=p2.length;i<l;i++){var s=p2[i].style;s.fill='#'+c;} var p3=document.getElementsByTagName('circle');for(var i=0,l=p3.length;i<l;i++){var s=p3[i].style;s.fill='#'+c;} }
+        ]]>
+</script>
+</svg>
